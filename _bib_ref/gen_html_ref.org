@@ -1,0 +1,39 @@
+#+TITLE: Gen_html_ref
+
+* Given bib file with my articles, how to generate the bibliography?
+
+1. We use bibtex2html tool to convert into html table. I wish it was just a list, but no idea how without a deep dive.
+2. Then we remove some redundant first and last lines.
+3. We have already an html header that also contains a line of html table (we don't want to highlight the first row in the table)
+4. We concatenate header, our main html file and footer into the publications.html.
+5. Finally, we copy our produced file to the one level above.
+
+
+** Run this to generate bibliography [DON'T] (old way)
+#+begin_src bash   :exports none  :results n
+bibtex2html -s abbrv -d -r -o ref -e note -nodoc -q -noheader  -nobibsource ref.bib
+sed -i -z 's/<hr><p><em>This file.*//'  ref.html
+sed -i '2d' ref.html
+cat head-ref.html ref.html ../_layout/page_foot.html > publications.html
+cp publications.html ../publications.html
+#+end_src
+
+
+
+** Run this code to generate bibliography
+1. We use bibtex2html tool to convert into html table. I wish it was just a list, but no idea how without a deep dive.
+2. Then we remove some redundant last lines.
+3. We add another empty line to the html table.
+4. We add ~~~ to the top and end of the file to make it markdown-like.
+6. Finally, we copy our produced file to the assets.
+
+#+begin_src bash   :exports none  :results n
+bibtex2html -s abbrv -d -r -o ref -e note -nodoc -q -noheader  -nobibsource ref.bib
+sed -i -z 's/<hr><p><em>This file.*//'  ref.html
+sed -i '3 i\<tr valign="top">' ref.html
+sed -i '1 i\~~~' ref.html
+sed -i -e '$a~~~' ref.html
+cp ref.html ..//_assets/my_papers.md
+#+end_src
+
+#+RESULTS:
