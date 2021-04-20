@@ -1,0 +1,4 @@
+Sitemap: https://ymalitsky.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
