@@ -4,4 +4,4 @@
 ### Publications
  
 
-\textinput{my_papers}
+\textinput{mypapers}
