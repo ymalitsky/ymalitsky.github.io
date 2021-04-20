@@ -5,11 +5,14 @@ The website_* must be defined for the RSS to work
 -->
 @def website_title = "Yura Malitsky"
 @def website_descr = "My personal website"
-@def website_url   = "https://ymalitsky.com"
+@def website_url   = "https://ymalitsky.github.io"
 
 @def author = "Yura Malitsky"
 
 @def mintoclevel = 2
+
+@def prepath = "mysite".
+
 
 <!--
 Add here files or directories that should be ignored by Franklin, otherwise
