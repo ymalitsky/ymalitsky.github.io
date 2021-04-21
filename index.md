@@ -2,7 +2,6 @@
 @def author = "Yura Malitsky"
 
 
-## About
 ~~~
 <div class="row">
   <div class="container">
@@ -21,6 +20,8 @@ I am an assistant professor in applied mathematics at Linköping University, Swe
 
 
 **Email**: y.malitsky@gmail.com or yurii.malitskyi@liu.se
+  
+**Name**: Besides "Yura Malitsky", I sometimes use another spelling "Yurii Malitskyi". Both are OK.
 
 ## News
 
