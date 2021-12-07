@@ -5,7 +5,36 @@
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="alacaoglu2021stochastic">1</a>]
+[1</a>]
+</td>
+<td class="bibtexitem">
+A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
+ Convergence of adaptive algorithms for weakly convex constrained
+  optimization.
+ In <em>NeurIPS</em>, 2021.
+[&nbsp;<a href="http://arxiv.org/abs/2006.06650">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[2</a>]
+</td>
+<td class="bibtexitem">
+A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
+ Forward-reflected-backward method with variance reduction.
+ <em>Comput Optim Appl</em>, 2021.
+[&nbsp;<a href="http://dx.doi.org/10.1007/s10589-021-00305-3">DOI</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[3</a>]
 </td>
 <td class="bibtexitem">
 A.&nbsp;Alacaoglu and Y.&nbsp;Malitsky.
@@ -19,7 +48,49 @@ A.&nbsp;Alacaoglu and Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="malitsky2020forward">2</a>]
+[4</a>]
+</td>
+<td class="bibtexitem">
+Y.&nbsp;Malitsky and M.&nbsp;K. Tam.
+ Resolvent splitting for sums of monotone operators with minimal
+  lifting, 2021.
+[&nbsp;<a href="http://arxiv.org/abs/2108.02897">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[5</a>]
+</td>
+<td class="bibtexitem">
+M.-L. Vladarean, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
+ A first-order primal-dual method with adaptivity to local smoothness.
+ In <em>NeurIPS</em>, 2021.
+[&nbsp;<a href="http://arxiv.org/abs/2110.15148">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[6</a>]
+</td>
+<td class="bibtexitem">
+F.&nbsp;J. Arag&oacute;n-Artacho, Y.&nbsp;Malitsky, M.&nbsp;K. Tam, and D.&nbsp;Torregrosa-Bel&eacute;n.
+ Distributed forward-backward methods without central coordination,
+  2021.
+[&nbsp;<a href="http://arxiv.org/abs/2112.00274">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[7</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky and M.&nbsp;K. Tam.
@@ -35,7 +106,7 @@ Y.&nbsp;Malitsky and M.&nbsp;K. Tam.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="mishchenko2020revisiting">3</a>]
+[8</a>]
 </td>
 <td class="bibtexitem">
 K.&nbsp;Mishchenko, D.&nbsp;Kovalev, E.&nbsp;Shulgin, P.&nbsp;Richt&aacute;rik, and Y.&nbsp;Malitsky.
@@ -51,7 +122,7 @@ K.&nbsp;Mishchenko, D.&nbsp;Kovalev, E.&nbsp;Shulgin, P.&nbsp;Richt&aacute;rik, 
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Malitsky2019">4</a>]
+[9</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky.
@@ -66,7 +137,7 @@ Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Malitsky2019_descent">5</a>]
+[10</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky and K.&nbsp;Mishchenko.
@@ -81,7 +152,7 @@ Y.&nbsp;Malitsky and K.&nbsp;Mishchenko.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="Ahmet2020adam_type">6</a>]
+[11</a>]
 </td>
 <td class="bibtexitem">
 A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, P.&nbsp;Mertikopoulos, and V.&nbsp;Cevher.
@@ -96,21 +167,7 @@ A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, P.&nbsp;Mertikopoulos, and V.&nbsp;Cevher.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="alacaoglu2020convergence">7</a>]
-</td>
-<td class="bibtexitem">
-A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
- Convergence of adaptive algorithms for weakly convex constrained
-  optimization, 2020.
-[&nbsp;<a href="http://arxiv.org/abs/2006.06650">arXiv</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[<a name="ochs2019model">8</a>]
+[12</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky and P.&nbsp;Ochs.
@@ -127,7 +184,7 @@ Y.&nbsp;Malitsky and P.&nbsp;Ochs.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="csetnek2019shadow">9</a>]
+[13</a>]
 </td>
 <td class="bibtexitem">
 E.&nbsp;R. Csetnek, Y.&nbsp;Malitsky, and M.&nbsp;K. Tam.
@@ -142,7 +199,7 @@ E.&nbsp;R. Csetnek, Y.&nbsp;Malitsky, and M.&nbsp;K. Tam.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="malitsky2018proximal">10</a>]
+[14</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky.
@@ -157,7 +214,7 @@ Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="luke2018block">11</a>]
+[15</a>]
 </td>
 <td class="bibtexitem">
 D.&nbsp;R. Luke and Y.&nbsp;Malitsky.
@@ -174,7 +231,7 @@ D.&nbsp;R. Luke and Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="malitsky2018first">12</a>]
+[16</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky and T.&nbsp;Pock.
@@ -189,7 +246,7 @@ Y.&nbsp;Malitsky and T.&nbsp;Pock.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="malitsky2017primal">13</a>]
+[17</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky.
@@ -203,7 +260,7 @@ Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="malitsky2015projected">14</a>]
+[18</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky.
@@ -222,7 +279,7 @@ SIAM Student Paper Award, 2015
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="malitsky2015hybrid">15</a>]
+[19</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;V. Malitsky and V.&nbsp;Semenov.
@@ -238,7 +295,7 @@ Y.&nbsp;V. Malitsky and V.&nbsp;Semenov.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[<a name="malitsky2014extragradient">16</a>]
+[20</a>]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;V. Malitsky and V.&nbsp;Semenov.

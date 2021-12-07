@@ -24,7 +24,7 @@ I am an assistant professor in applied mathematics at Linköping University, Swe
 **Name**: Besides "Yura Malitsky", I sometimes use another spelling "Yurii Malitskyi". Both are fine.
 
 ## News
-
+-  December 2021: Our two papers are accepted to NeurIPS. Congratulations to Maria and [Ahmet!](https://scholar.google.com/citations?user=-yRi8D4AAAAJ&hl=en) 
 -  April 2021: At LiU a new PhD position (4-5 years) and a postdoc position (2 years) in continuous optimization are open. To apply or to find out more details, use [PhD link](https://liu.se/en/work-at-liu/vacancies?rmpage=job&rmjob=15910&rmlang=UK) and [postdoc link](https://liu.se/en/work-at-liu/vacancies?rmpage=job&rmjob=16145&rmlang=UK).
 -  February 2021: A new paper is on arXiv: [Stochastic Variance Reduction for Variational Inequality Methods](https://arxiv.org/abs/2102.08352) (together with Ahmet Alacaoglu).
 -  From October 2020 I am in Sweden.
