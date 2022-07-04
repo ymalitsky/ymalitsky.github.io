@@ -8,6 +8,20 @@
 [1</a>]
 </td>
 <td class="bibtexitem">
+A.&nbsp;Alacaoglu and Y.&nbsp;Malitsky.
+ Stochastic variance reduction for variational inequality methods.
+ In <em>Conference on Learning Theory</em>, pages 778--816. PMLR, 2022.
+[&nbsp;<a href="http://arxiv.org/abs/2102.08352">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[2</a>]
+</td>
+<td class="bibtexitem">
 A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
  Convergence of adaptive algorithms for weakly convex constrained
   optimization.
@@ -20,27 +34,13 @@ A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[2</a>]
+[3</a>]
 </td>
 <td class="bibtexitem">
 A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
  Forward-reflected-backward method with variance reduction.
  <em>Comput Optim Appl</em>, 2021.
 [&nbsp;<a href="http://dx.doi.org/10.1007/s10589-021-00305-3">DOI</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[3</a>]
-</td>
-<td class="bibtexitem">
-A.&nbsp;Alacaoglu and Y.&nbsp;Malitsky.
- Stochastic variance reduction for variational inequality methods,
-  2021.
-[&nbsp;<a href="http://arxiv.org/abs/2102.08352">arXiv</a>&nbsp;]
 
 </td>
 </tr>
