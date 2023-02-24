@@ -5,13 +5,15 @@
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[1</a>]
+[1]
 </td>
 <td class="bibtexitem">
 A.&nbsp;Alacaoglu and Y.&nbsp;Malitsky.
  Stochastic variance reduction for variational inequality methods.
- In <em>Conference on Learning Theory</em>, pages 778--816. PMLR, 2022.
-[&nbsp;<a href="http://arxiv.org/abs/2102.08352">arXiv</a>&nbsp;]
+ In <em>Proceedings of Thirty Fifth Conference on Learning Theory</em>,
+  volume 178, pages 778--816. PMLR, 2022.
+[&nbsp;<a href="http://arxiv.org/abs/2102.08352">arXiv</a>&nbsp;| 
+<a href="https://proceedings.mlr.press/v178/alacaoglu22a.html">.html</a>&nbsp;]
 
 </td>
 </tr>
@@ -19,14 +21,87 @@ A.&nbsp;Alacaoglu and Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[2</a>]
+[2]
+</td>
+<td class="bibtexitem">
+Y.&nbsp;Malitsky and M.&nbsp;K. Tam.
+ Resolvent splitting for sums of monotone operators with minimal
+  lifting.
+ <em>Mathematical Programming</em>, 2022.
+[&nbsp;<a href="http://dx.doi.org/10.1007/s10107-022-01906-4">DOI</a>&nbsp;| 
+<a href="http://arxiv.org/abs/2108.02897">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[3]
+</td>
+<td class="bibtexitem">
+F.&nbsp;J. Arag&oacute;n-Artacho, Y.&nbsp;Malitsky, M.&nbsp;K. Tam, and D.&nbsp;Torregrosa-Bel&eacute;n.
+ Distributed forward-backward methods for ring networks.
+ <em>Computational optimization and applications</em>, 2022.
+[&nbsp;<a href="http://dx.doi.org/10.1007/s10589-022-00400-z">DOI</a>&nbsp;| 
+<a href="http://arxiv.org/abs/2112.00274">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[4]
+</td>
+<td class="bibtexitem">
+A.&nbsp;Alacaoglu, A.&nbsp;B&ouml;hm, and Y.&nbsp;Malitsky.
+ Beyond the golden ratio for variational inequality algorithms, 2022.
+[&nbsp;<a href="http://arxiv.org/abs/2212.13955">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[5]
+</td>
+<td class="bibtexitem">
+Z.&nbsp;Chen and Y.&nbsp;Malitsky.
+ Over-the-air computation with multiple receivers: A space-time
+  approach, 2022.
+[&nbsp;<a href="http://arxiv.org/abs/2208.11751">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[6]
+</td>
+<td class="bibtexitem">
+Z.&nbsp;Chen, E.&nbsp;G. Larsson, C.&nbsp;Fischione, M.&nbsp;Johansson, and Y.&nbsp;Malitsky.
+ Over-the-air computation for distributed systems: Something old and
+  something new, 2022.
+[&nbsp;<a href="http://arxiv.org/abs/2211.00767">arXiv</a>&nbsp;]
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[7]
 </td>
 <td class="bibtexitem">
 A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
  Convergence of adaptive algorithms for weakly convex constrained
   optimization.
- In <em>NeurIPS</em>, 2021.
-[&nbsp;<a href="http://arxiv.org/abs/2006.06650">arXiv</a>&nbsp;]
+ In <em>NeurIPS</em>, volume&nbsp;34, pages 14214--14225, 2021.
+[&nbsp;<a href="http://arxiv.org/abs/2006.06650">arXiv</a>&nbsp;| 
+<a href="https://papers.nips.cc/paper/2021/hash/76c073d8a82d9ddaf993300be03ac70f-Abstract.html">.html</a>&nbsp;]
 
 </td>
 </tr>
@@ -34,12 +109,13 @@ A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[3</a>]
+[8]
 </td>
 <td class="bibtexitem">
 A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
  Forward-reflected-backward method with variance reduction.
- <em>Comput Optim Appl</em>, 2021.
+ <em>Computational optimization and applications</em>, 80(2):321--346,
+  2021.
 [&nbsp;<a href="http://dx.doi.org/10.1007/s10589-021-00305-3">DOI</a>&nbsp;]
 
 </td>
@@ -48,27 +124,14 @@ A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[4</a>]
-</td>
-<td class="bibtexitem">
-Y.&nbsp;Malitsky and M.&nbsp;K. Tam.
- Resolvent splitting for sums of monotone operators with minimal
-  lifting, 2021.
-[&nbsp;<a href="http://arxiv.org/abs/2108.02897">arXiv</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[5</a>]
+[9]
 </td>
 <td class="bibtexitem">
 M.-L. Vladarean, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
  A first-order primal-dual method with adaptivity to local smoothness.
- In <em>NeurIPS</em>, 2021.
-[&nbsp;<a href="http://arxiv.org/abs/2110.15148">arXiv</a>&nbsp;]
+ In <em>NeurIPS</em>, volume&nbsp;34, pages 6171--6182, 2021.
+[&nbsp;<a href="http://arxiv.org/abs/2110.15148">arXiv</a>&nbsp;| 
+<a href="https://papers.nips.cc/paper/2021/hash/310b60949d2b6096903d7e8a539b20f5-Abstract.html">.html</a>&nbsp;]
 
 </td>
 </tr>
@@ -76,21 +139,7 @@ M.-L. Vladarean, Y.&nbsp;Malitsky, and V.&nbsp;Cevher.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[6</a>]
-</td>
-<td class="bibtexitem">
-F.&nbsp;J. Arag&oacute;n-Artacho, Y.&nbsp;Malitsky, M.&nbsp;K. Tam, and D.&nbsp;Torregrosa-Bel&eacute;n.
- Distributed forward-backward methods without central coordination,
-  2021.
-[&nbsp;<a href="http://arxiv.org/abs/2112.00274">arXiv</a>&nbsp;]
-
-</td>
-</tr>
-
-
-<tr valign="top">
-<td align="right" class="bibtexnumber">
-[7</a>]
+[10]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky and M.&nbsp;K. Tam.
@@ -106,7 +155,7 @@ Y.&nbsp;Malitsky and M.&nbsp;K. Tam.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[8</a>]
+[11]
 </td>
 <td class="bibtexitem">
 K.&nbsp;Mishchenko, D.&nbsp;Kovalev, E.&nbsp;Shulgin, P.&nbsp;Richt&aacute;rik, and Y.&nbsp;Malitsky.
@@ -122,7 +171,7 @@ K.&nbsp;Mishchenko, D.&nbsp;Kovalev, E.&nbsp;Shulgin, P.&nbsp;Richt&aacute;rik, 
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[9</a>]
+[12]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky.
@@ -137,7 +186,7 @@ Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[10</a>]
+[13]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky and K.&nbsp;Mishchenko.
@@ -152,7 +201,7 @@ Y.&nbsp;Malitsky and K.&nbsp;Mishchenko.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[11</a>]
+[14]
 </td>
 <td class="bibtexitem">
 A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, P.&nbsp;Mertikopoulos, and V.&nbsp;Cevher.
@@ -167,7 +216,7 @@ A.&nbsp;Alacaoglu, Y.&nbsp;Malitsky, P.&nbsp;Mertikopoulos, and V.&nbsp;Cevher.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[12</a>]
+[15]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky and P.&nbsp;Ochs.
@@ -184,7 +233,7 @@ Y.&nbsp;Malitsky and P.&nbsp;Ochs.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[13</a>]
+[16]
 </td>
 <td class="bibtexitem">
 E.&nbsp;R. Csetnek, Y.&nbsp;Malitsky, and M.&nbsp;K. Tam.
@@ -199,7 +248,7 @@ E.&nbsp;R. Csetnek, Y.&nbsp;Malitsky, and M.&nbsp;K. Tam.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[14</a>]
+[17]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky.
@@ -214,7 +263,7 @@ Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[15</a>]
+[18]
 </td>
 <td class="bibtexitem">
 D.&nbsp;R. Luke and Y.&nbsp;Malitsky.
@@ -231,7 +280,7 @@ D.&nbsp;R. Luke and Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[16</a>]
+[19]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky and T.&nbsp;Pock.
@@ -246,7 +295,7 @@ Y.&nbsp;Malitsky and T.&nbsp;Pock.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[17</a>]
+[20]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky.
@@ -260,7 +309,7 @@ Y.&nbsp;Malitsky.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[18</a>]
+[21]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;Malitsky.
@@ -279,7 +328,7 @@ SIAM Student Paper Award, 2015
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[19</a>]
+[22]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;V. Malitsky and V.&nbsp;Semenov.
@@ -295,7 +344,7 @@ Y.&nbsp;V. Malitsky and V.&nbsp;Semenov.
 
 <tr valign="top">
 <td align="right" class="bibtexnumber">
-[20</a>]
+[23]
 </td>
 <td class="bibtexitem">
 Y.&nbsp;V. Malitsky and V.&nbsp;Semenov.
