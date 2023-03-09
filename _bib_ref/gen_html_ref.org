@@ -18,7 +18,7 @@ sed -i '3 i\<tr valign="top">' ref.html
 sed -i '1 i\~~~' ref.html
 sed -i -e '$a~~~' ref.html
 sed -i 's/<a name.*">//g' ref.html
-sed -i 's/<\/a>]/]/g'
+sed -i 's/<\/a>]/]/g' ref.html
 cp ref.html ..//_assets/mypapers.md
 #+end_src
 

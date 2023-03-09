@@ -7,7 +7,7 @@
   <div class="container">
     <img class="right" src="/assets/me.png" height="100" width="100">
     <p>
-I am an Assistant Professor in Computational Optimization at University of Vienna. I received my PhD (2015) from Kyiv National University, where I was advised by Prof. V. Semenov. After that I had postdocs in Graz, Göttingen, and Lausanne. Then I joined Linköping University, Sweden as a WASP faculty assitistant professor. 
+I am an Assistant Professor in Computational Optimization at University of Vienna. I received my PhD (2015) from Kyiv National University, where I was advised by Prof. V. Semenov. After that I had postdocs in Graz, Göttingen, and Lausanne. Then I joined Linköping University, Sweden as a WASP faculty assistant professor. 
 </p>
     <p>
     <div style="clear: both"></div>
@@ -19,9 +19,9 @@ I am an Assistant Professor in Computational Optimization at University of Vienn
 **Research Interests**: My research area is continuous optimization. Primarily, I study existing algorithms and develop new ones. Related areas of interest include  numerical linear algebra, algorithms, dynamical systems, stochastic methods, optimal transport, and machine learning. I like nice theorems, simple algorithms, and interesting applications.
 
 
-**Email**: y.malitsky@gmail.com
+**Email**: yurii.malitskyi@univie.ac.at and y.malitsky@gmail.com
   
-**Name**: Besides "Yura Malitsky", I sometimes use another spelling "Yurii Malitskyi". Both are fine.
+**Name**: Besides "Yurii Malitskyi", I sometimes use another spelling "Yura Malitsky". Both are fine.
 
 ## News
 - March 2023: I start my new job as an Assistant Professor of Computational Optimization at the University of Vienna.
