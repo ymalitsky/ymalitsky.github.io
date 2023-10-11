@@ -1,27 +1,60 @@
-@online{chen2022over,
+@online{malitsky23adaptive,
+  title={Adaptive proximal gradient method for convex optimization},
+  author={Malitsky, Yura  and  Mishchenko, Konstantin},
+  eprint={2308.02261},
+  eprinttype = {arxiv},
+  year=2023,
+}
+
+@online{malitsky2023first,
+  title={A First-Order Algorithm for Decentralised Min-Max Problems},
+  author={Malitsky, Yura and Tam, Matthew K},
+  eprint={2308.11876},
+  eprinttype={arXiv},
+  year=2023,
+}
+
+
+
+@article{chen2022over,
   title={Over-the-Air Computation for Distributed Systems: Something Old and Something New},
   author={Chen, Zheng and Larsson, Erik G and Fischione, Carlo and Johansson, Mikael and Malitsky, Yura},
+  journal={IEEE Network},
+  year=2023,
+  publisher={IEEE},
   eprint={2211.00767},
   eprinttype = {arxiv},
-  year={2022}
+  doi={10.1109/MNET.126.2200205}
 }
 
-@online{chen2022over-the-air,
-  title={Over-the-air computation with multiple receivers: A space-time approach},
+
+@article{ChenZheng23,
   author={Chen, Zheng and Malitsky, Yura},
-  eprint={2208.11751},
-  eprinttype = {arxiv},
-  year={2022}
-}
+  journal={IEEE Wireless Communications Letters}, 
+  title={Over-the-Air Computation With Multiple Receivers: A Space-Time Approach}, 
+  year=2023,
+  volume=12,
+  number=8,
+  pages={1399-1403},
+  doi={10.1109/LWC.2023.3275760}}
 
 
-@online{alacaoglu2022beyond,
-  title={Beyond the Golden Ratio for Variational Inequality Algorithms},
-  author={Alacaoglu, Ahmet and B{\"o}hm, Axel and Malitsky, Yura},
+
+
+@article{alacaoglu2023beyond,
+  author       = {Ahmet Alacaoglu and
+                  Axel B{\"{o}}hm and
+                  Yura Malitsky},
+  title        = {Beyond the golden ratio for variational inequality algorithms},
+  journal      = {J. Mach. Learn. Res.},
+  volume       = 24,
+  pages        = {1--33},
+  year         = 2023,
+  url          = {http://jmlr.org/papers/v24/22-1488.html},
   eprint={2212.13955},
-  eprinttype = {arxiv},
-  year={2022}
+  eprinttype = {arxiv}
 }
+
 
 
 @article{aragon2021distributed,
@@ -48,14 +81,20 @@ eprint={2112.00274},
 
 
 @article{malitsky2021resolvent,
-  title={Resolvent Splitting for Sums of Monotone Operators with Minimal Lifting},
-  author={Malitsky, Yura and Tam, Matthew K},
-  journal={Mathematical Programming},
+  author       = {Yura Malitsky and
+                  Matthew K. Tam},
+  title        = {Resolvent splitting for sums of monotone operators with minimal lifting},
+  journal      = {Math. Program.},
+  volume       = 201,
+  number       = 1,
+  pages        = {231--262},
+  year         = 2023,
+  doi          = {10.1007/s10107-022-01906-4},
   eprint={2108.02897},
   eprinttype = {arxiv},
-  year=2022,
-  doi={10.1007/s10107-022-01906-4}
 }
+
+
 
 @inproceedings{alacaoglu2022stochastic,
   title={Stochastic variance reduction for variational inequality methods},
@@ -86,8 +125,11 @@ doi={10.1007/s10589-021-00305-3}
 @InProceedings{alacaoglu2020convergence,
   title={Convergence of adaptive algorithms for weakly convex constrained optimization},
   author={Alacaoglu, Ahmet and Malitsky, Yura and Cevher, Volkan},
-  year={2021},
+   volume = 34,
+  year=2021,
   booktitle = {NeurIPS},
+   pages = {14214--14225},
+  url={https://papers.nips.cc/paper/2021/hash/76c073d8a82d9ddaf993300be03ac70f-Abstract.html},
   eprint={2006.06650},
   eprinttype = {arxiv}
 }
@@ -96,27 +138,38 @@ doi={10.1007/s10589-021-00305-3}
 
 
 
-@InProceedings{Ahmet2020adam_type,
-title = {A new regret analysis for {A}dam-type algorithms},
-author = {Alacaoglu, Ahmet and Malitsky, Yura and Mertikopoulos,
-Panayotis and Cevher, Volkan},
-booktitle = {International Conference on Machine Learning},
-year = 2020,
-url = {http://proceedings.mlr.press/v119/alacaoglu20b.html},
-eprint={2003.09729},
-eprinttype = {arxiv}
+@inproceedings{DBLP:conf/icml/AlacaogluMMC20,
+  author       = {Ahmet Alacaoglu and
+                  Yura Malitsky and
+                  Panayotis Mertikopoulos and
+                  Volkan Cevher},
+  title        = {A new regret analysis for Adam-type algorithms},
+  booktitle    = {Proceedings of the 37th International Conference on Machine Learning},
+  volume       = 119,
+  pages        = {202--210},
+  publisher    = {{PMLR}},
+  year         = 2020,
+  url          = {http://proceedings.mlr.press/v119/alacaoglu20b.html},
+  eprint={2003.09729},
+ eprinttype = {arxiv}
 }
 
 
-@InProceedings{Malitsky2019_descent,
-  title = {Adaptive Gradient Descent without Descent},
-  author = {Malitsky, Yura and Mishchenko, Konstantin},
-  booktitle = 	 {International Conference on Machine Learning},
-  year = 	 2020,
-  url = {http://proceedings.mlr.press/v119/malitsky20a.html},
-  eprint={1910.09529},
-  eprinttype = {arxiv}
+
+
+@inproceedings{malitsky2019_descent,
+ author = {Malitsky, Yura and Mishchenko, Konstantin},
+ title = {Adaptive gradient descent without descent},
+ booktitle = {Proceedings of the 37th International Conference on Machine Learning},
+ volume = 119,
+ pages = {6702----6712},
+ publisher = {{PMLR}},
+ year = 2020,
+ url = {http://proceedings.mlr.press/v119/malitsky20a.html},
+ eprint = {1910.09529},
+ eprinttype = {arxiv},
 }
+
 
 @article{Malitsky2019,
 author={Malitsky, Yura},
@@ -149,7 +202,7 @@ eprinttype = {arxiv},
 @inproceedings{ochs2019model,
   title={Model Function Based Conditional Gradient Method with {{A}rmijo}-like Line Search},
   author={Malitsky, Yura and Ochs, Peter},
-  booktitle={International Conference on Machine Learning},
+  booktitle={Proceedings of the 36th International Conference on Machine Learning},
   pages={4891--4900},
   year=2019,
   url = {http://proceedings.mlr.press/v97/ochs19a/ochs19a.pdf},
