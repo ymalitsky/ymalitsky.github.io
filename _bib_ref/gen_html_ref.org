@@ -12,7 +12,7 @@
 6. Finally, we copy our produced file to the assets.
 
 #+begin_src bash   :exports none  :results n
-bibtex2html -s abbrv -d -r -o ref -e note -nodoc -q -noheader  -nobibsource ref.bib
+bibtex2html -s abbrv -d -r -o ref -e note -nodoc -q -noheader  -nobibsource my_bib.bib
 sed -i -z 's/<hr><p><em>This file.*//'  ref.html
 sed -i '3 i\<tr valign="top">' ref.html
 sed -i '1 i\~~~' ref.html

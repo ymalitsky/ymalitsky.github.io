@@ -24,6 +24,9 @@ I am an Assistant Professor in Computational Optimization at University of Vienn
 **Name**: Besides "Yurii Malitskyi", I sometimes use another spelling "Yura Malitsky". Both are fine.
 
 ## News
+- December 2023: I have a new [PhD position
+  available](https://www.vsmath.at//media/Malitskyi_GB.pdf).  Details in the
+  announcement. Please apply!
 - March 2023: I start my new job as an Assistant Professor of Computational Optimization at the University of Vienna.
 - December 2022: Our paper [Resolvent splitting for sums of monotone operators with minimal lifting](http://arxiv.org/abs/2108.02897) is accepted to Mathematical Programming. Congratulations to [Matt](https://matthewktam.com/)!
 - October 2022: We received the [Knut and Alice Wallenberg Foundation Prize](https://kaw.wallenberg.org/en/research-projects-2022) with SEK 30 mln in total. The lucky team consists of Erik G. Larsson (PI), Carlo Fischione (co-PI), Mikael Johansson (co-PI), and me (co-PI).
