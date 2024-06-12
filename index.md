@@ -24,6 +24,9 @@ I am an Assistant Professor in Computational Optimization at University of Vienn
 **Name**: Besides "Yurii Malitskyi", I sometimes use another spelling "Yura Malitsky". Both are fine.
 
 ## News
+- April 2024: Congratulations to Axel Böhm who won FWF ESPRIT grant! From August 2024 he will join our team.
+- March 2024: Alex Posch, a new PhD student has joined our team (consisting of only
+  me before :) ).
 - December 2023: I have a new [PhD position
   available](https://www.vsmath.at//media/Malitskyi_GB.pdf).  Details in the
   announcement. Please apply!

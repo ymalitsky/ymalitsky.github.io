@@ -1,6 +1,6 @@
 @def title = "War in Ukraine"
 
-It has already been a year of active war in Ukraine... 
+It has already been two years of active war in Ukraine... 
 
 ### Science
 If you are a scientist or a student from Ukraine, this may be useful for you:
@@ -33,7 +33,7 @@ Some daily news related to the war:
 
 - [Def Mon in twitter](https://twitter.com/DefMon3) does a detailed analysis of action at the front line.
 
-- [Tom Cooper in meduim](https://medium.com/@x_TomCooper_x)  masterfully and regularly writes about the war.
+- [Tom Cooper in substack](https://xxtomcooperxx.substack.com/)  masterfully and regularly writes about the war.
 
 - [Oryx in twitter](https://twitter.com/oryxspioenkop)  meticulously counts the losses of military equipment.
 
