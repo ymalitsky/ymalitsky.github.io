@@ -8,6 +8,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://ymalitsky.github.io/teaching/index.html</loc>
+    <lastmod>2024-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://ymalitsky.github.io/war_ukraine/index.html</loc>
     <lastmod>2024-09-02</lastmod>
     <changefreq>monthly</changefreq>
