@@ -3,4 +3,4 @@
 ## Teaching 
 
 
-- 2024S [Stochastic algorithms](/assets/teaching/2024_stoch_alg.pdf)
+- 2024S [Stochastic algorithms](/teaching/2024_stoch_alg.pdf)
