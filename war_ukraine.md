@@ -1,6 +1,7 @@
 @def title = "War in Ukraine"
 
-It has already been two years of active war in Ukraine... 
+It has already been almost three years since Russia launched a full-scale invasion of Ukraine...
+
 
 ### Science
 If you are a scientist or a student from Ukraine, this may be useful for you:

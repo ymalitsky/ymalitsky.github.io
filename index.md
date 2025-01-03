@@ -25,6 +25,9 @@ I am an Assistant Professor in Computational Optimization at University of Vienn
 
 
 ## News
+- December 2024: Our paper [Adaptive proximal gradient method for convex
+  optimization](https://arxiv.org/abs/2308.02261) was accepted to NeurIPS-2024.
+- October 2024: Tuan Minh Le, a new PhD student has joined our team!
 - June 2024: I'm very happy to receive an [FWF START
   Award](https://www.fwf.ac.at/en/news/detail/fwf-start-awards-eur1-2-million-each-for-up-and-coming-top-researchers-from-graz-innsbruck-and-vienna)
   with a budget of €1.2 million!
