@@ -25,6 +25,8 @@ I am an Assistant Professor in Computational Optimization at University of Vienn
 
 
 ## News
+- September 2025: We are hiring for one [PhD position](phd-2025) and one [postdoctoral position](postdoc-2025). Learn more and apply by following the links.
+  
 - December 2024: Our paper [Adaptive proximal gradient method for convex
   optimization](https://arxiv.org/abs/2308.02261) was accepted to NeurIPS-2024.
 - October 2024: Tuan Minh Le, a new PhD student has joined our team!
